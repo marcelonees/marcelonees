@@ -139,20 +139,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest Youtube Videos
-<<<<<<< HEAD
 <!-- YOUTUBE:START -->
-=======
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3rbQgOwk6pY"><img width="140px" src="https://i.ytimg.com/vi/3rbQgOwk6pY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3rbQgOwk6pY">Transmissão ao vivo de Marcelo Barreto Nees</a><br/>Sep 20, 2017</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=h6Whs7_avjw"><img width="140px" src="https://i.ytimg.com/vi/h6Whs7_avjw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=h6Whs7_avjw">Show dos Raimundos em Jaraguá do Sul - SC - Discurso do Digão</a><br/>May 6, 2014</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4HC0QacoUCs"><img width="140px" src="https://i.ytimg.com/vi/4HC0QacoUCs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4HC0QacoUCs">Palhas do coqueiro</a><br/>May 4, 2014</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=tzlPXHgIeek"><img width="140px" src="https://i.ytimg.com/vi/tzlPXHgIeek/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tzlPXHgIeek">Homenagem da Fla-Jaraguá aos 60 anos do Zico!</a><br/>Feb 5, 2013</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=PZm_mrm_ULQ"><img width="140px" src="https://i.ytimg.com/vi/PZm_mrm_ULQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=PZm_mrm_ULQ">Fla-Jaraguá: Homenagem aos 60 anos do Zico!</a><br/>Feb 5, 2013</td></tr></table>
->>>>>>> 0083fac8958132533202b5486a148085721f0a78
 <!-- YOUTUBE:END -->
 
 <p>
@@ -162,9 +149,13 @@
 </p>
 
 <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelonees&show_icons=true&locale=en" alt="marcelonees" />
+    <img align="center" 
+        src="https://github-readme-stats.vercel.app/api?username=marcelonees&show_icons=true&locale=en" 
+        alt="marcelonees" />
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelonees&" alt="marcelonees" />
+    <img align="center" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=marcelonees&" 
+        alt="marcelonees" />
 </p>
