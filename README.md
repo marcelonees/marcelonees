@@ -1,11 +1,21 @@
 <h1 align="center">Hi 👋, I'm Marcelo</h1>
 <h3 align="center">A passionate PHP developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelonees&label=Profile%20views&color=0e75b6&style=flat" alt="marcelonees" /> </p>
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=marcelonees&label=Profile%20views&color=0e75b6&style=flat" alt="marcelonees" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcelonees" alt="marcelonees" /></a> </p>
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=marcelonees" alt="marcelonees" />
+    </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/marcelonees" target="blank"><img src="https://img.shields.io/twitter/follow/marcelonees?logo=twitter&style=for-the-badge" alt="marcelonees" /></a> </p>
+<p align="left">
+    <a href="https://twitter.com/marcelonees" target="blank">
+        <img src="https://img.shields.io/twitter/follow/marcelonees?logo=twitter&style=for-the-badge" alt="marcelonees" />
+    </a>
+</p>
 
 - 🔭 I’m currently working on [fnpanel](https://github.com/marcelonees/fnpanel)
 
@@ -21,10 +31,34 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/marcelonees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marcelonees" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marcelo-nees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelo-nees" height="30" width="40" /></a>
-<a href="https://instagram.com/marcelobnees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcelobnees" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/marcelonees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marcelonees" height="30" width="40" /></a>
+    <a href="https://twitter.com/marcelonees" target="blank">
+        <img align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+            alt="marcelonees" 
+            height="30" 
+            width="40" />
+    </a>
+    <a href="https://linkedin.com/in/marcelo-nees" target="blank">
+        <img align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+            alt="marcelo-nees" 
+            height="30" 
+            width="40" />
+    </a>
+    <a href="https://instagram.com/marcelobnees" target="blank">
+        <img align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+            alt="marcelobnees" 
+            height="30" 
+            width="40" />
+    </a>
+    <a href="https://www.youtube.com/c/marcelonees" target="blank">
+        <img align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" 
+            alt="marcelonees" 
+            height="30" 
+            width="40" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -102,28 +136,22 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Alterar a senha do root no MySQL](https://mailnees.blogspot.com/2009/04/alterar-senha-do-root-no-mysql.html)
-- [Significado de algumas mensagens no log do squid](https://mailnees.blogspot.com/2008/10/significado-de-algumas-mensagens-no-log.html)
-- [Postfix com relay autenticado no Debian](https://mailnees.blogspot.com/2008/09/postfix-com-relay-autenticado-no-debian.html)
-- [Firefox 3.0.1 em pt-BR](https://mailnees.blogspot.com/2008/07/firefox-301-em-pt-br.html)
-- [Alternativas Open Source para softwares proprietários](https://mailnees.blogspot.com/2008/07/alternativas-open-source-para-softwares.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest Youtube Videos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3rbQgOwk6pY"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3rbQgOwk6pY">Transmissão ao vivo de Marcelo Barreto Nees</a><br/>Sep 20, 2017</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=h6Whs7_avjw"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=h6Whs7_avjw">Show dos Raimundos em Jaraguá do Sul - SC - Discurso do Digão</a><br/>May 6, 2014</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4HC0QacoUCs"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4HC0QacoUCs">Palhas do coqueiro</a><br/>May 4, 2014</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=tzlPXHgIeek"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tzlPXHgIeek">Homenagem da Fla-Jaraguá aos 60 anos do Zico!</a><br/>Feb 5, 2013</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=PZm_mrm_ULQ"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=PZm_mrm_ULQ">Fla-Jaraguá: Homenagem aos 60 anos do Zico!</a><br/>Feb 5, 2013</td></tr></table>
+<!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelonees&show_icons=true&locale=en&layout=compact" alt="marcelonees" /></p>
+<p>
+    <img align="left" 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelonees&show_icons=true&locale=en&layout=compact" 
+        alt="marcelonees" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelonees&show_icons=true&locale=en" alt="marcelonees" /></p>
+<p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelonees&show_icons=true&locale=en" alt="marcelonees" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelonees&" alt="marcelonees" /></p>
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelonees&" alt="marcelonees" />
+</p>
