@@ -102,6 +102,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Alterar a senha do root no MySQL](https://mailnees.blogspot.com/2009/04/alterar-senha-do-root-no-mysql.html)
+- [Significado de algumas mensagens no log do squid](https://mailnees.blogspot.com/2008/10/significado-de-algumas-mensagens-no-log.html)
+- [Postfix com relay autenticado no Debian](https://mailnees.blogspot.com/2008/09/postfix-com-relay-autenticado-no-debian.html)
+- [Firefox 3.0.1 em pt-BR](https://mailnees.blogspot.com/2008/07/firefox-301-em-pt-br.html)
+- [Alternativas Open Source para softwares proprietários](https://mailnees.blogspot.com/2008/07/alternativas-open-source-para-softwares.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest Youtube Videos
