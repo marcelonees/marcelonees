@@ -134,6 +134,8 @@
     </a>
 </p>
 
+![Snake animation](https://github.com/marcelonees/marcelonees/blob/output/github-contribution-grid-snake.svg)
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Alterar a senha do root no MySQL](https://mailnees.blogspot.com/2009/04/alterar-senha-do-root-no-mysql.html)
@@ -173,5 +175,3 @@
         src="https://github-readme-streak-stats.herokuapp.com/?user=marcelonees&" 
         alt="marcelonees" />
 </p>
-
-![Snake animation](https://github.com/marcelonees/marcelonees/blob/output/github-contribution-grid-snake.svg)
