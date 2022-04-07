@@ -136,10 +136,24 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Alterar a senha do root no MySQL](https://mailnees.blogspot.com/2009/04/alterar-senha-do-root-no-mysql.html)
+- [Significado de algumas mensagens no log do squid](https://mailnees.blogspot.com/2008/10/significado-de-algumas-mensagens-no-log.html)
+- [Postfix com relay autenticado no Debian](https://mailnees.blogspot.com/2008/09/postfix-com-relay-autenticado-no-debian.html)
+- [Firefox 3.0.1 em pt-BR](https://mailnees.blogspot.com/2008/07/firefox-301-em-pt-br.html)
+- [Alternativas Open Source para softwares proprietários](https://mailnees.blogspot.com/2008/07/alternativas-open-source-para-softwares.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest Youtube Videos
-<!-- YOUTUBE:START -->
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3rbQgOwk6pY"><img width="140px" src="https://i.ytimg.com/vi/3rbQgOwk6pY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3rbQgOwk6pY">Transmissão ao vivo de Marcelo Barreto Nees</a><br/>Sep 20, 2017</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=h6Whs7_avjw"><img width="140px" src="https://i.ytimg.com/vi/h6Whs7_avjw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=h6Whs7_avjw">Show dos Raimundos em Jaraguá do Sul - SC - Discurso do Digão</a><br/>May 6, 2014</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=4HC0QacoUCs"><img width="140px" src="https://i.ytimg.com/vi/4HC0QacoUCs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4HC0QacoUCs">Palhas do coqueiro</a><br/>May 4, 2014</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=tzlPXHgIeek"><img width="140px" src="https://i.ytimg.com/vi/tzlPXHgIeek/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=tzlPXHgIeek">Homenagem da Fla-Jaraguá aos 60 anos do Zico!</a><br/>Feb 5, 2013</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=PZm_mrm_ULQ"><img width="140px" src="https://i.ytimg.com/vi/PZm_mrm_ULQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=PZm_mrm_ULQ">Fla-Jaraguá: Homenagem aos 60 anos do Zico!</a><br/>Feb 5, 2013</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <p>
