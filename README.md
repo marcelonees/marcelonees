@@ -159,3 +159,5 @@
         src="https://github-readme-streak-stats.herokuapp.com/?user=marcelonees&" 
         alt="marcelonees" />
 </p>
+
+![Snake animation](https://github.com/marcelonees/marcelonees/blob/output/github-contribution-grid-snake.svg)
