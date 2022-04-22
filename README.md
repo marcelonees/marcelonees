@@ -7,27 +7,17 @@
     <img src="https://komarev.com/ghpvc/?username=marcelonees&label=Profile%20views&color=0e75b6&style=flat" alt="marcelonees" />
 </p>
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=marcelonees&theme=dracula&no-frame=true" alt="marcelonees" />
-    </a>
-</p>
+![Snake animation](https://github.com/marcelonees/marcelonees/blob/output/github-contribution-grid-snake.svg)
 
-<p align="left">
-    <a href="https://twitter.com/marcelonees" target="blank">
-        <img src="https://img.shields.io/twitter/follow/marcelonees?logo=twitter&style=for-the-badge" alt="marcelonees" />
-    </a>
-</p>
-
-- 🔭 I’m currently working on [fnpanel](https://github.com/marcelonees/fnpanel)
+- 🔭 I’m currently working on [adicli](https://github.com/marcelonees/adicli)
 
 - 👯 I’m looking to collaborate on [PMJS - Sistemas](https://github.com/devspmjs/ambiente_sistemas)
 
-- 🤝 I’m looking for help with [fail2ban-zimbra](https://github.com/marcelonees/fail2ban-zimbra)
+- 🤝 I’m looking for help with [adicli](https://github.com/marcelonees/adicli)
 
 - 👨‍💻 All of my projects are available at [https://www.fnpanel.com.br/](https://www.fnpanel.com.br/)
 
-- 📝 I regularly write articles on [http://mailnees.blogspot.com/](http://mailnees.blogspot.com/)
+- 📝 I regularly write articles on [dev.to](http://dev.to/marcelonees/)
 
 - 📫 How to reach me **marcelo.linux@gmail.com**
 
@@ -136,7 +126,11 @@
     </a>
 </p>
 
-![Snake animation](https://github.com/marcelonees/marcelonees/blob/output/github-contribution-grid-snake.svg)
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=marcelonees&theme=dracula&no-frame=true" alt="marcelonees" />
+    </a>
+</p>
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
