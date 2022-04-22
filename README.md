@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marcelo</h1>
 <h3 align="center">A passionate PHP developer from Brazil</h3>
 
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=marcelonees&label=Profile%20views&color=0e75b6&style=flat" alt="marcelonees" />
 </p>
