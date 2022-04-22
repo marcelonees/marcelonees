@@ -138,7 +138,7 @@
 
 -->
 
-### 📕 Latest Blogspot Posts
+### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Alterar a senha do root no MySQL](https://mailnees.blogspot.com/2009/04/alterar-senha-do-root-no-mysql.html)
 - [Significado de algumas mensagens no log do squid](https://mailnees.blogspot.com/2008/10/significado-de-algumas-mensagens-no-log.html)
