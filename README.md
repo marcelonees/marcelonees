@@ -55,6 +55,8 @@
     </a>
 </p>
 
+<!--
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -134,7 +136,9 @@
     </a>
 </p>
 
-### 📕 Latest Blog Posts
+-->
+
+### 📕 Latest Blogspot Posts
 <!-- BLOG-POST-LIST:START -->
 - [Alterar a senha do root no MySQL](https://mailnees.blogspot.com/2009/04/alterar-senha-do-root-no-mysql.html)
 - [Significado de algumas mensagens no log do squid](https://mailnees.blogspot.com/2008/10/significado-de-algumas-mensagens-no-log.html)
