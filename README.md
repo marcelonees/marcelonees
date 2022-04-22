@@ -11,7 +11,7 @@
 
 ![Snake animation](https://github.com/marcelonees/marcelonees/blob/output/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working on [adicli](https://github.com/marcelonees/adicli)
+- 🔭 I’m currently working on [adicli](https://github.com/marcelonees/adicli), a command line interface for Adianti Framework
 
 - 👯 I’m looking to collaborate on [PMJS - Sistemas](https://github.com/devspmjs/ambiente_sistemas)
 
