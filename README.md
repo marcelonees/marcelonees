@@ -140,6 +140,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Adianti - Nginx rewrite rules](https://dev.to/marcelonees/adianti-nginx-rewrite-rules-553f)
 - [Apresentando adicli - Adianti Command Line Interface](https://dev.to/marcelonees/apresentando-adicli-adianti-command-line-interface-3gg8)
 <!-- BLOG-POST-LIST:END -->
 
