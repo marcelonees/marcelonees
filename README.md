@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Marcelo</h1>
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Ol%C3%A1..+Sou%20o%20Marcelo;Este%20%C3%A9%20meu+Github..;"
+        </h1>
+</div>
+
 <h3 align="center">A passionate PHP developer from Brazil</h3>
 
 <p align="center">
