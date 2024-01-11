@@ -155,6 +155,10 @@
                     src="https://github-readme-stats.vercel.app/api?username=marcelonees&show_icons=true&locale=en" 
                     alt="marcelonees" />
             </td>
+                <img 
+                    style="border: none;"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" 
+                    alt="marcelonees" />
         </tr>
      </table>
 </div>
