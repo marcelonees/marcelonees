@@ -4,6 +4,10 @@
         </h1>
 </div>
 
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcelonees&theme=github_dark" alt="Marcelo's GitHub Stats"/>
+</div>
+
 <h3 align="center">A passionate PHP developer from Brazil</h3>
 
 <p align="center">
