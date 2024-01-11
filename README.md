@@ -129,6 +129,10 @@
                     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcelonees&theme=github_dark" 
                     alt="Marcelo's GitHub Stats"/>
             </td>
+        </tr>
+     </table>
+    <table align="center" width="100%" height="100%" >
+        <tr>
             <td>
                 <img 
                     style="border: none;"
@@ -141,8 +145,8 @@
                     src="https://github-readme-stats.vercel.app/api?username=marcelonees&show_icons=true&locale=en" 
                     alt="marcelonees" />
             </td>
-    </tr>
- </table>
+        </tr>
+     </table>
 </div>
 
 
