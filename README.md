@@ -41,11 +41,11 @@
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <p> As a multifaceted software developer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Php-FA7343?style=for-the-badge&logo=php&logoColor=white" alt="Swift"/>
-  <img src="https://img.shields.io/badge/YAML-0A0A0A?style=for-the-badge" alt="YAML"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Php-FA7343?style=for-the-badge&logo=php&logoColor=white" alt="Swift"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+    <img src="https://img.shields.io/badge/YAML-0A0A0A?style=for-the-badge" alt="YAML"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </div>
 
 <h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
@@ -137,14 +137,16 @@
     </ul>
 </div>
 
-
-### 📕 Latest Blog Posts
+<div align="left">
+    <h2 align="center" class="section-heading"> 📕 Latest Blog Posts</h2>
 <!-- BLOG-POST-LIST:START -->
 - [Adianti - Nginx rewrite rules](https://dev.to/marcelonees/adianti-nginx-rewrite-rules-553f)
 - [Apresentando adicli - Adianti Command Line Interface](https://dev.to/marcelonees/apresentando-adicli-adianti-command-line-interface-3gg8)
 <!-- BLOG-POST-LIST:END -->
+</div>
 
-### 📺 Latest Youtube Videos
+<div align="left">
+    <h2 align="center" class="section-heading"> 📺 Latest Youtube Videos</h2>
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3rbQgOwk6pY"><img width="140px" src="https://i.ytimg.com/vi/3rbQgOwk6pY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3rbQgOwk6pY">Transmissão ao vivo de Marcelo Barreto Nees</a><br/>Sep 20, 2017</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hpkrc0szIe0"><img width="140px" src="https://i.ytimg.com/vi/hpkrc0szIe0/mqdefault.jpg"></a></td>
@@ -156,7 +158,7 @@
 <table><tr><td><a href="https://www.youtube.com/watch?v=tzlPXHgIeek"><img width="140px" src="https://i.ytimg.com/vi/tzlPXHgIeek/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tzlPXHgIeek">Homenagem da Fla-Jaraguá aos 60 anos do Zico!</a><br/>Feb 5, 2013</td></tr></table>
 <!-- YOUTUBE:END -->
-
+</div>
 <p>
     <img align="left" 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelonees&show_icons=true&locale=en&layout=compact" 
