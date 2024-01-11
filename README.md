@@ -164,6 +164,8 @@
     <h2 align="center" class="section-heading"> 📕 Latest Blog Posts</h2>
     <ul>
 <!-- BLOG-POST-LIST:START -->
+- [Adianti - Nginx rewrite rules](https://dev.to/marcelonees/adianti-nginx-rewrite-rules-553f)
+- [Apresentando adicli - Adianti Command Line Interface](https://dev.to/marcelonees/apresentando-adicli-adianti-command-line-interface-3gg8)
 <!-- BLOG-POST-LIST:END -->
     </ul>
 </div>
