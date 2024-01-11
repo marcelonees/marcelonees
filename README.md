@@ -3,13 +3,10 @@
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 
-<p align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</p>
-
 <div align="center">
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
+    <p><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></p>
     <p>I'm a Software Developer at Jaraguá do Sul's City Hall. My technical range is broad, covering everything from cloud platforms and containerization to network connectivity and security.</p>
 </div>
 
