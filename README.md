@@ -10,6 +10,11 @@
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </p>
 
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcelonees&theme=github_dark" alt="Marcelo's GitHub Stats"/>
+</div>
+
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=marcelonees&label=Profile%20views&color=0e75b6&style=flat" alt="marcelonees" />
 </p>
