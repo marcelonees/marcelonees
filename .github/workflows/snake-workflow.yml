@@ -70,6 +70,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.SECRET_TOKEN }}
+          ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
 
       # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
