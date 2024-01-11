@@ -36,6 +36,11 @@
     <img 
         src="https://raw.githubusercontent.com/marcelonees/marcelonees/output/github-contribution-grid-snake.svg#gh-light-mode-only"
         alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+      <img alt="github-snake" src="github-snake.svg" />
+    </picture>    
 </div>
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
