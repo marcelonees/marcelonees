@@ -129,6 +129,18 @@
                     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcelonees&theme=github_dark" 
                     alt="Marcelo's GitHub Stats"/>
             </td>
+            <td>
+                <img 
+                    style="border: none;"
+                    src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelonees&show_icons=true&locale=en&layout=compact" 
+                    alt="marcelonees" />
+            </td>
+            <td>
+                <img 
+                    style="border: none;"
+                    src="https://github-readme-stats.vercel.app/api?username=marcelonees&show_icons=true&locale=en" 
+                    alt="marcelonees" />
+            </td>
     </tr>
  </table>
 </div>
@@ -158,20 +170,3 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 </div>
-<p>
-    <img align="left" 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelonees&show_icons=true&locale=en&layout=compact" 
-        alt="marcelonees" />
-</p>
-
-<p>&nbsp;
-    <img align="center" 
-        src="https://github-readme-stats.vercel.app/api?username=marcelonees&show_icons=true&locale=en" 
-        alt="marcelonees" />
-</p>
-
-<p>
-    <img align="center" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=marcelonees" 
-        alt="marcelonees" />
-</p>
