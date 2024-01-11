@@ -93,55 +93,19 @@
 </div>
 
 
-
-
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=marcelonees&label=Profile%20views&color=0e75b6&style=flat" alt="marcelonees" />
-</p>
-
 ![Snake animation](https://github.com/marcelonees/marcelonees/blob/output/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working on [adicli](https://github.com/marcelonees/adicli), a command line interface for [Adianti Framework](https://www.adianti.com.br/)
 
-- 🤝 I’m looking for help with [adicli](https://github.com/marcelonees/adicli)
-
-- 👨‍💻 All of my projects are available at [https://www.fnpanel.com.br/](https://www.fnpanel.com.br/)
-
-- 📝 I regularly write articles on [dev.to](http://dev.to/marcelonees/)
-
-- 📫 How to reach me **marcelo.linux@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/marcelonees" target="blank">
-        <img align="center" 
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-            alt="marcelonees" 
-            height="30" 
-            width="40" />
-    </a>
-    <a href="https://linkedin.com/in/marcelo-nees" target="blank">
-        <img align="center" 
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-            alt="marcelo-nees" 
-            height="30" 
-            width="40" />
-    </a>
-    <a href="https://instagram.com/marcelobnees" target="blank">
-        <img align="center" 
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-            alt="marcelobnees" 
-            height="30" 
-            width="40" />
-    </a>
-    <a href="https://www.youtube.com/c/marcelonees" target="blank">
-        <img align="center" 
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" 
-            alt="marcelonees" 
-            height="30" 
-            width="40" />
-    </a>
-</p>
+<div align="center">
+<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
+<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
+    <ul>
+        <li> 🔭 I’m currently working on [adicli](https://github.com/marcelonees/adicli), a command line interface for [Adianti Framework](https://www.adianti.com.br/)</li>
+        <li> 🤝 I’m looking for help with [adicli](https://github.com/marcelonees/adicli)</li>
+        <li> 👨‍💻 All of my projects are available at [https://www.fnpanel.com.br/](https://www.fnpanel.com.br/)</li>
+        <li> 📝 I regularly write articles on [dev.to](http://dev.to/marcelonees/)</li>
+    </ul>
+</div>
 
 
 ### 📕 Latest Blog Posts
