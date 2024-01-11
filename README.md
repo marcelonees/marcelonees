@@ -2,12 +2,12 @@
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Marcelo;This+is..;..my+Github..;" alt="Typing SVG"/>
     </h1>
+    <p><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></p>
 </div>
 
 <div align="center">
     <h2>🚀 About Me</h2>
     <!-- <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></p>
     <p>I'm a Software Developer at Jaraguá do Sul's City Hall. My technical range is broad, covering everything from cloud platforms and containerization to network connectivity and security.</p>
 </div>
 
@@ -32,10 +32,7 @@
     <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
     <img src="https://raw.githubusercontent.com/marcelonees/marcelonees/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
     <img src="https://raw.githubusercontent.com/marcelonees/marcelonees/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
-    <img src="https://github.com/marcelonees/marcelonees/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation Light Mode"/>    
 </div>
-
-![Snake animation](https://github.com/marcelonees/marcelonees/blob/output/github-contribution-grid-snake.svg)
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <p> As a multifaceted software developer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
