@@ -8,7 +8,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
     <!-- <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>I'm a Software Developer at Jaraguá do Sul's City Hall. My technical range is broad, covering everything from cloud platforms and containerization to network connectivity and security.</p>
+    <p>I'm a Software Developer at Jaraguá do Sul's City Hall. My technical range is broad, covering from fullstack frameworks to network connectivity and security.</p>
 </div>
 
 <div align="center">
@@ -57,6 +57,7 @@
     <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" alt="Next.js"/>
 </div>
 
+<!--
 <h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
 <p>In the dynamic realm of cloud computing, I am proficient in leveraging leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I specialize in:</p>
 <div align="center">
@@ -66,6 +67,7 @@
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
+-->
 
 <h2 align="center" class="section-heading">🔧 Frameworks</h2>
 <p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
