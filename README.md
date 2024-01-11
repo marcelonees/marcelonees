@@ -79,7 +79,6 @@
 <div align="center">
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
 <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
-    ![Snake animation](https://github.com/marcelonees/marcelonees/blob/output/github-contribution-grid-snake.svg)
     <table align="center" width="100%" height="100%" >
         <tr>
            <td>
@@ -137,10 +136,12 @@
 
 <div align="left">
     <h2 align="center" class="section-heading"> 📕 Latest Blog Posts</h2>
+    <ul>
 <!-- BLOG-POST-LIST:START -->
 - [Adianti - Nginx rewrite rules](https://dev.to/marcelonees/adianti-nginx-rewrite-rules-553f)
 - [Apresentando adicli - Adianti Command Line Interface](https://dev.to/marcelonees/apresentando-adicli-adianti-command-line-interface-3gg8)
 <!-- BLOG-POST-LIST:END -->
+    </ul>
 </div>
 
 <div align="left">
@@ -171,6 +172,6 @@
 
 <p>
     <img align="center" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=marcelonees&" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=marcelonees" 
         alt="marcelonees" />
 </p>
