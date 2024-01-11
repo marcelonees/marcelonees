@@ -154,11 +154,18 @@
                     style="border: none;"
                     src="https://github-readme-stats.vercel.app/api?username=marcelonees&show_icons=true&locale=en" 
                     alt="marcelonees" />
+            <td>
+                <img 
+                    style="border: none;"
+                    src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green" 
+                    alt="marcelonees" />
             </td>
+            <td>
                 <img 
                     style="border: none;"
                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelonees&theme=blue-green" 
                     alt="marcelonees" />
+            </td>
         </tr>
      </table>
 </div>
