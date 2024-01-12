@@ -109,7 +109,7 @@
            </td>   
            <td>
                <img style="border: none;" 
-                   src="https://github-readme-streak-stats.herokuapp.com/?user=marcelonees&theme=merko" 
+                   src="https://github-readme-streak-stats.herokuapp.com/?user=marcelonees&theme=github_dark" 
                    alt="Marcelo's Contribution Streak"/>
            </td>
         </tr>
