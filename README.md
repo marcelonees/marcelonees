@@ -165,9 +165,9 @@
 <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
     <ul>
         <li> 🔭 I’m currently working on <a href="https://github.com/marcelonees/adicli">adicli</a>, a command line interface for <a href="https://www.adianti.com.br">Adianti Framework</a></li>
-        <li> 🤝 I’m looking for help with [adicli](https://github.com/marcelonees/adicli)</li>
-        <li> 👨‍💻 All of my projects are available at [https://www.fnpanel.com.br/](https://www.fnpanel.com.br/)</li>
-        <li> 📝 I regularly write articles on [dev.to](http://dev.to/marcelonees/)</li>
+        <li> 🤝 I’m looking for help with <a href="https://github.com/marcelonees/adicli">adicli</a></li>
+        <li> 👨‍💻 All of my projects are available at <a href="https://www.fnpanel.com.br">fnpanel</a></li>
+        <li> 📝 I regularly write articles on <a href="http://dev.to/marcelonees">dev.to</a></li>
     </ul>
 </div>
 
